@@ -48,3 +48,9 @@ Use poetry to configure your project and manage the dependencies.
 # add dependency
 poetry add <dependency-name>
 ```
+
+## Note
+Files larger than 100 MB are ignored, please download it from [BluebookForBulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers/data)
+- data/bluebook-for-bulldozers/Train.csv
+- data/bluebook-for-bulldozers/TrainAndValid.csv
+- data/bluebook-for-bulldozers/train_tmp.csv
