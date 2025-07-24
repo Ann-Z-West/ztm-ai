@@ -1,0 +1,5 @@
+myenv/
+__pycache__/
+data/bluebook-for-bulldozers/Train.csv
+data/bluebook-for-bulldozers/TrainAndValid.csv
+data/bluebook-for-bulldozers/train_tmp.csv
