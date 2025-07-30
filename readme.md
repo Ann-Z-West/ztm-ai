@@ -1,11 +1,11 @@
 # Study AI from zero to mastery
 
 This is a simplified version of the original ZTM project on github, which does not require that\
-Anaconda, Conda and jupterbook pre-installed.
+Anaconda, Conda and jupterbook are pre-installed.
 
 It uses Python3 as interpreter to run the code in `.ipynb` files, and uses poetry to manage dependencies.
 
-Those are the steps to create a project like this on your laptop.
+Those are the steps to create a project on your laptop.
 
 ## Install Python
 Download latest stable version of python3 installer and install or use `brew install`.
